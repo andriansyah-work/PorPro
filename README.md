@@ -1,39 +1,33 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><h1 align="center">Porpro (Portofolio Programmer)</h1></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><h1 align="center">PorPro (Portofilio Programmer)</h1></a></p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+</p> -->
 
-## About Laravel
+## Tentang PorPro
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Berawal dari sebuah percakapan santai dengan teman lama, temanya random, tentang karir, kerjaan, teknologi terbaru dan lain-lain, sampai ke obrolan portofolio, kami mulai merasa bosan, update portofolio manual dengan Ms. Word yang kami convert ke Pdf ataupun Portofolio Online yang banyak tersedia, kami inginkan lebih dari itu , karna sewaktu-waktu kamipun punya kerjaan sampingan, yang menarik untuk kami pajang di portofolio kami, yang akan kami terapkan antara lain dengan tujuan sebagai berikut :
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- CV [dengan template versi kami] pastinya berbeda dengan yang lain, karna kami yang buat sesuai keinginan & kami bisa memilih template cv sendiri.
+- Jika ada perubahan terkait CV, kami menyediakan form untuk perubahan datanya dan dengan mudah dapat di download dalam bentuk PDF.
+- Elegan untuk mempresentasikan portofolio kami dengan lengkap dan akurat.
+- kami punya harapan besar, dalam web ini tersedia pula untuk customer , jika ingin jasa pembuatan web, kami sangat siap, untuk itu kami sediakan page contact, customer bisa kirim pesan yang akan terkirim ke whatsapp kami ataupun gmail.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+kemungkinan kebutuhan akan berkembang seiring berjalannya waktu .
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Visi
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Seiring berjalan nya waktu, teknologi semakin berkembang, bahkan persaingan pun semakin ketat, kami pun punya visi untuk mengembangkan web ini sampai dengan menyediakan tutorial-tutorial terkait teknologi bahasa pemgoraman tertentu, sharing knowledge di forum masing-masing teknologi atau bahasa pemogramannya, kami sangat bangga jika bisa sedikitnya membantu para programmer menemukan solusi, dan pastinya kami sangat menerima kritik & saran dari semua kalangan.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
+## Misi
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-### Premium Partners
+## Teknologi Yang Kami Gunakan
 
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
@@ -48,19 +42,3 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[OP.GG](https://op.gg)**
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
